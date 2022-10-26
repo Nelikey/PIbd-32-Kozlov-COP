@@ -1,0 +1,16 @@
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\Lab1View.exe.config
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\Lab1View.exe
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\Lab1View.pdb
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\NonVisualControlLibrary.dll
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\VissualControlLibrary.dll
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\NonVisualControlLibrary.pdb
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\bin\x86\Debug\VissualControlLibrary.pdb
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.ComponentsCheckForm.resources
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.Properties.Resources.resources
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.csproj.CopyComplete
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.exe
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\Lab1View\obj\x86\Debug\Lab1View.pdb

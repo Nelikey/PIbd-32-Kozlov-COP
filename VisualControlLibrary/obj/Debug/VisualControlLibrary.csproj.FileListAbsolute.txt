@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\bin\Debug\VissualControlLibrary.dll
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\bin\Debug\VissualControlLibrary.pdb
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VisualControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VissualControlLibrary.CustomComboBox.resources
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VissualControlLibrary.CustomListBox.resources
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VissualControlLibrary.CustomTextBox.resources
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VisualControlLibrary.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VisualControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VissualControlLibrary.dll
+C:\Users\Алексей\source\repos\PIbd-32-Kozlov-COP\VisualControlLibrary\obj\Debug\VissualControlLibrary.pdb
